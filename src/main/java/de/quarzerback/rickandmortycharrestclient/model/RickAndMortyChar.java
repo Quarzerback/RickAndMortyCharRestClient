@@ -11,4 +11,6 @@ public class RickAndMortyChar {
     private String name;
     private int id;
     private String species;
+    private String gender;
+    private String status;
 }
